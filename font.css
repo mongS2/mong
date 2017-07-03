@@ -8,3 +8,14 @@
     font-weight: bold;
     font-style: normal;
 }
+
+@font-face {
+	font-family: "nsEB";
+   
+    src: 
+      
+         url(fonts/NanumSquareEB.woff) format("woff"), /* Mordern Browsers */
+         url(fonts/NanumSquareEB.ttf) format("truetype"); /* If not support woff */
+    font-weight: bold;
+    font-style: normal;
+}
